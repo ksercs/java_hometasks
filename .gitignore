@@ -1,0 +1,10 @@
+*.jar
+*.class
+*.in
+*.out
+*.txt
+*.zip
+.idea
+out/
+lib/
+*.iml
